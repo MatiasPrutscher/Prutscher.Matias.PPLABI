@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1621425874 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+
+1621430320 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\funciones.h
+
+1621434588 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1621430710 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"tipo.h"
+
+1621435152 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\tipo.h
+
+1621430255 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"color.h"
+
+1621430195 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\color.h
+
+1621435864 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+
+1621434495 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\trabajo.h
+	"mascotas.h"
+	"servicio.h"
+
+1621431375 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.h
+	"tipo.h"
+	"color.h"
+	"funciones.h"
+
+1621434513 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\servicio.h
+	"funciones.h"
+
+1621435843 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"trabajo.h"
+	"menu.h"
+
+1621435524 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"mascotas.h"
+
+1621434979 source:c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621434954 c:\users\maty\documents\github\prutscher.matias.pplabi\1erparciallaboratorio1\menu.h
+
